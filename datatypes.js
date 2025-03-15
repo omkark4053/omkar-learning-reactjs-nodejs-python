@@ -21,4 +21,6 @@ student["fullName"] = "Kumar Ayush"
 
 console.log(student.fullName)
 
-// 1.let can be able to update 2. const can be update 3.cont objecet (key can be updated)||
+// 1.let can be able to update
+//  2. const can be update 
+// 3.cont objecet (key can be updated)||
